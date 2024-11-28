@@ -31,6 +31,8 @@
 ### 知乎社工库机器人 [@PyramidNet_SGKBOT](https://t.me/PyramidNet_SGKBOT?start=ZHIHU_RZICPQRJ)
 
 ### Hope机器人 [@FKTZnb_botbot(https://t.me/FKTZnb_botbot?start=583785512)
+
+### 小火箭 [@MoLeLe_SGKbot](https://t.me/MoLeLe_SGKbot?start=NTgzNzg1NTEy)
 <img src="pic/aaaa.png" alt="2024最新免费社工库" border="0">
 参考文章：
 
