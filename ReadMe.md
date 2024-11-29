@@ -6,6 +6,8 @@
 
 ##免费好用的在线社工库查询网站和 Telegram电报社工库机器人，开房记录 微信记录 聊天记录 个人信息可以查询平台帐号、密码、查qq绑定、查邮箱、查手机号、查身份证以及各种隐私数据是否泄露，看看你是否也处于数据外泄事件之中。
 
+Privacy-个人数据泄露检测[@MoLeLe_SGKbot](https://t.me/MoLeLe_SGKbot?start=NTgzNzg1NTEy)
+
 ### 情报局社工库 [@MoLeLe_SGKbot](https://t.me/MoLeLe_SGKbot?start=NTgzNzg1NTEy)
 
 ### 全国照片户籍机器人 [@MoLeLe_SGK_bot](https://t.me/MoLeLe_SGK_bot?start=583785512)
